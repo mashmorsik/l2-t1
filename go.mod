@@ -1,4 +1,4 @@
-module github.com/mashmorsik/L2/tasks/task_1
+module github.com/mashmorsik/l2-t1
 
 go 1.22.0
 
